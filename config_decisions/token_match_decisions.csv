@@ -1,0 +1,13 @@
+token_chain,token_address,dao_slug,cc_symbol,decision,reason,decided_by,decided_on
+eip155:1,0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371,pooh,POOH,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0x3486b751a36f731a1bebff779374bad635864919,inedible,INEDIBLE,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0xbc138bd20c98186cc0342c8e380953af0cb48ba8,candle,CNDL,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0x90de74265a416e1393a450752175aed98fe11517,unlock,UDT,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0x0cec1a9154ff802e7934fc916ed7ca50bde6844e,pooltogether,POOL,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0x6243d8cea23066d098a15582d81a598b4e8391f4,reflexer-ungovernor,FLX,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0xf4dc48d260c93ad6a96c5ce563e70ca578987c74,babylon,BABL,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:8453,0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85,seamless-protocol,SEAM,accept,genuine Seamless Protocol token; Tally reports supply 0 for the Base contract,author,2026-10-05
+eip155:1,0x236501327e701692a281934230af0b6be8df3353,fluence,FLT,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91,wormhole,W,accept,genuine Wormhole token; supply differs because W is multichain (Tally sees the Ethereum contract only),author,2026-10-05
+eip155:8453,0x875ee70143fca7d78e03ee6b13a2b0d68be4af0c,pawthereum,PAWTH,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05
+eip155:1,0x0b010000b7624eb9b3dfbc279673c76e9d29d5f7,obol,OBOL,accept,"genuine project (ticker and name agree); CryptoCompare has no supply data, market cap therefore missing",author,2026-10-05

@@ -1,0 +1,3 @@
+sample,n_daos,n_q_reached,n_q_equal_1,share_q_equal_1,median_quorum_share_of_delegated,median_top1_share,n_quorum_unreachable,daos_q_equal_1
+all,54,38,24,0.631578947368421,0.23670506785516515,0.37750481120088963,11,"ondo-dao, aave, ens, compound, braintrust, threshold-network, radworks, gitcoin, ampleforth, angle, turtledaooldd, hifi-dao, hop, inverse, pooltogether, cryptex, sudoswap, internet-token-dao, reflexer-ungovernor, collab-land, silo, inedible, candle, idle"
+active,25,23,14,0.6086956521739131,0.198359339343887,0.3624163190167209,2,"ens, compound, braintrust, threshold-network, radworks, gitcoin, ampleforth, hifi-dao, hop, pooltogether, cryptex, sudoswap, internet-token-dao, reflexer-ungovernor"

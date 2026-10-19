@@ -1,0 +1,11 @@
+step,n
+U1 all organizations,7864
+U2 with proposals,3234
+U3 not test organizations,2295
+U3b token on a mainnet chain,743
+U4 fungible token,680
+U5 DAOs (distinct mainnet token contracts),636
+U6 ticker matched to CryptoCompare,80
+U6b one contract per ticker,69
+U7 governor with the DAO token,69
+U8 match verified (supply or author),54

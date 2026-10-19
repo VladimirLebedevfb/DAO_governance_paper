@@ -1,0 +1,9 @@
+cc_symbol,error
+SUMR,cryptocompare/histoday_2026-10_SUMR_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (SUMR-USD)
+UDT,cryptocompare/histoday_2026-10_UDT_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (UDT-USD)
+TERM,cryptocompare/histoday_2026-10_TERM_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (TERM-USD)
+IDLE,cryptocompare/histoday_2026-10_IDLE_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (IDLE-USD)
+BABL,cryptocompare/histoday_2026-10_BABL_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (BABL-USD)
+CNDL,cryptocompare/histoday_2026-10_CNDL_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (CNDL-USD)
+PAWTH,cryptocompare/histoday_2026-10_PAWTH_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (PAWTH-USD)
+INEDIBLE,cryptocompare/histoday_2026-10_INEDIBLE_0: CryptoCompare error: CCCAGG market does not exist for this coin pair (INEDIBLE-USD)

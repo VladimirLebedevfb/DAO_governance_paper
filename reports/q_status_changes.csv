@@ -1,0 +1,7 @@
+dao_slug,q_status_old,q_raw_old,q_status_new,q_raw_new,n_quorum_data_errors
+optimism,reached,6.0,"implausible quorum units (quorum / supply outside [1e-6, 1])",,0
+arbitrum,quorum exceeds all delegated votes (unreachable with current delegation),,reached,18.0,1
+seamless-protocol,no quorum,,reached,3.0,0
+karratco,reached,4.0,quorum exceeds all delegated votes (unreachable with current delegation),,0
+anvil,reached,5.0,reached,3.0,0
+obol,reached,27.0,reached,12.0,0

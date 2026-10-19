@@ -1,0 +1,23 @@
+item,value
+DAOs,35
+proposals (events),1806
+unique event dates,1391
+window rows,19866
+date range,2021-01-07 to 2026-09-25
+"CAR[-5,+5] (proposal-weighted)",-0.018868636394491663
+"CAR[-5,+5] (DAO-equal)",-0.058033378468277254
+share negative proposal CAR,0.6074197120708749
+mean / median proposal CAR,-0.0189 / -0.0259
+baseline: thesis: mean monthly excess / 30 x 11,-0.02736112349158548
+baseline: pooled non-event daily excess x 11,-0.024889548011226836
+baseline: proposal-weighted: per-DAO non-event mean x 11,-0.0027545113898480287
+placebo DAO-equal: mean,-0.026729015585267482
+placebo DAO-equal: p vs DAO-equal CAR,0.01
+placebo DAO-equal: p vs proposal-weighted CAR (thesis comparison),0.741
+placebo proposal-weighted: mean,-0.00533612526484691
+placebo proposal-weighted: p vs proposal-weighted CAR,0.0
+placebo reps,1000
+event-day mean (unique DAO-days) / N,-0.00240 / 9471
+non-event mean / N,-0.00226 / 37179
+event vs non-event t / p,-0.155 / 0.877
+"pooled ADF (daily excess, event DAOs)",-29.710690056183278
